@@ -6,16 +6,12 @@ A tutorial about DBpedia and Linked Data in general
 We use the [Wiki](https://github.com/dbpedia/dbpedia-documentation/wiki) ATM
 Import data dbpedia
 ================
-Machine: 
-dns: sdbpedia.cloudapp.net
-
-IP: 137.117.44.111
-
-location:East EE. UU.
-
-size: Standard_D4 (8 cores, 28 GB de RAM)
-
-data: 50GB
+		Machine: 
+		dns: sdbpedia.cloudapp.net
+		IP: 137.117.44.111
+		location:East EE. UU.
+		size: Standard_D4 (8 cores, 28 GB de RAM)
+		data: 50GB
 
 Import data freebase
 ================
